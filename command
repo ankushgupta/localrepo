@@ -244,6 +244,7 @@ root@ip-172-31-54-254:~/localrepo# history
    69  history
    70  iptables -L
    71  history
+=======
     72  ifconfig
    73  docker ps
    74  docekr run -d -p 80:80 apache2
@@ -365,4 +366,3 @@ root@ip-172-31-54-254:~/localrepo# history
   190  docker network ls
   191  docker network --help
   192  history
-
